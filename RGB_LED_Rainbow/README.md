@@ -1,7 +1,7 @@
 
 #RGB LED RAINBOW
 
-  ##Using a small circuit containing an ATtiny45 and RGB Led to cycle through 7 main colors.
+###Using a small circuit containing an ATtiny45 and RGB Led to cycle through 7 main colors.
   
     *The 7 colors go through: red, green, blue, cyan, yellow, magenta, and white.
       
@@ -16,12 +16,12 @@
 
 
 
-####//Based on the ATMEL ATTINY45 / ARDUINO from pins_arduno.h header file
-####//
-####//                          +-\/-+
-####// Ain0 (D 5)[RESET]  PB5  1|    |8  Vcc
-####// Ain3 (D 3)[CLK_I]  PB3  2|    |7  PB2 (D 2)  Ain1  [SCK]
-####// Ain2 (D 4)[CLK_O]  PB4  3|    |6  PB1 (D 1)  pwm1  [MISO]
-####//                    GND  4|    |5  PB0 (D 0)  pwm0  [MOSI]
-####//                          +----+
-####//
+//Based on the ATMEL ATTINY45 / ARDUINO from pins_arduno.h header file
+//
+//                          +-\/-+
+// Ain0 (D 5)[RESET]  PB5  1|    |8  Vcc
+// Ain3 (D 3)[CLK_I]  PB3  2|    |7  PB2 (D 2)  Ain1  [SCK]
+// Ain2 (D 4)[CLK_O]  PB4  3|    |6  PB1 (D 1)  pwm1  [MISO]
+//                    GND  4|    |5  PB0 (D 0)  pwm0  [MOSI]
+//                          +----+
+//

@@ -17,12 +17,19 @@ They were programmed, built, and techincal documents were written for each proje
 	* Uses threshold values and interrupts to reflect auditory levels 
 
 ####The Orca ROV
-Videos for the first prototype can be found [here](https://youtu.be/9azRQuNWb_g)!
+Video of the first prototype can be found [here](https://youtu.be/9azRQuNWb_g)!
 
 	* Created a commercially affordable remotely operated underwater vehicle 
 	* The ROV is fully customizable
 	* GUI with information about:
 		* Sensors: Accelerometer, Gyroscope, Depth, and Temperature Sensors
 		* Camera w/ Live Stream and Video Capture
+
+####iOS Game: SpaceJoe
+Video for a 2 minute demo can be found [here](https://youtu.be/V6v8ba3OWhw)!
+
+	* Designed, developed, and produced a 2D platform side-scrolling video game for the iOS mobile platform
+	* Integrating genres for unique gameplay
+	* Portable to all screen sized iOS devices
 
 ####Will be updating with more past projects

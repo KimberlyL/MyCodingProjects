@@ -1,5 +1,5 @@
 /*
-  RGB LED
+  RGB LED RAINBOW
 
   Using a small circuit containing an ATtiny45 and RGB Led to cycle through 7 main colors.
   

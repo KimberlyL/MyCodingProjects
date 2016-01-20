@@ -13,5 +13,5 @@
 
 ######Schematic.png
   
-* This is a screenshot of the PCB circuit layot
+* This is a screenshot of the PCB circuit layout
 * This image shows the connections between IC pins and RGB LED

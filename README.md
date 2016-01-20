@@ -17,7 +17,7 @@ They were programmed, built, and techincal documents were written for each proje
 	* Uses threshold values and interrupts to reflect auditory levels 
 
 ####The Orca ROV
-	* Videos for the first prototype can be found [here](https://www.youtube.com/watch?v=9azRQuNWb_g)
+	* Videos for the first prototype can be found here: https://www.youtube.com/watch?v=9azRQuNWb_g
 	* Created a commercially affordable remotely operated underwater vehicle 
 	* The ROV is fully customizable
 	* GUI with information about:

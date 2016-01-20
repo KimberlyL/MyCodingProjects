@@ -1,11 +1,10 @@
 # MyCodingProjects
 ##A collection of some small coding projects I've built.
 
-###Thanks for checking out my projects!
+######Thanks for checking out my projects!
 
 The first two projects are both microcontroller projects.
-
-They were programmed, built, and techincal documents were written for each project in about two hours. 
+They were programmed, built, and techincal documents were written for each project in about 2 to 3 hours. 
 
 ####The RGB LED Rainbow 
 	* This is a project used to teach kids between the ages 8 to 16 about STEM.
@@ -17,9 +16,4 @@ They were programmed, built, and techincal documents were written for each proje
 	* Uses a Tiva C Series, a sound sensor, and a ton of LEDs
 	* Uses threshold values and interrupts to reflect auditory levels 
 
-This Space Ship version of Flappy Bird app was built in about 6 hours without any prior app builiding experience
-
-####The Space Ship (version of) Flappy Bird
-	* This is an iOS game
-	* Uses 
-	* Uses 
+####Will be updating with more past projects
